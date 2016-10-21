@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477081134 source:c:\users\carlaeliana\desktop\tp_3\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1477078212 c:\users\carlaeliana\desktop\tp_3\headers.h
+
+1477079731 source:c:\users\carlaeliana\desktop\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1477081470 source:c:\users\carlaeliana\desktop\tp_3\f_emovies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
